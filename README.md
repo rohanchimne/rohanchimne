@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Rohan%20Chimne&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Rohan%20Chimne&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;MS+Business+Analytics+at+UT+Austin;Python+%7C+SQL+%7C+Databricks+%7C+AWS;Graph+Analytics+%7C+Data+Engineering+%7C+Machine+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;MS+Business+Analytics+at+UT+Austin;Python+%7C+SQL+%7C+Databricks+%7C+AWS;Graph+Analytics+%7C+Data+Engineering+%7C+Machine+Learning"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 # 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,aws,azure,docker,git,linux,mysql,github" />
+<img src="https://skillicons.dev/icons?i=python,aws,azure,docker,git,linux,mysql,github" />
 </p>
 
 ---
@@ -69,9 +69,9 @@
 ![Keras](https://img.shields.io/badge/Keras-red?logo=keras)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?logo=opencv)
 
-
 ---
 
+
 <p align="center">
-  ⭐ From <a href="https://github.com/rohanchimne">Rohan Chimne</a>
+⭐ From <a href="https://github.com/rohanchimne">Rohan Chimne</a>
 </p>
