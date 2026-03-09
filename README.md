@@ -1,11 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Rohan%20Chimne&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Rohan%20Chimne&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rohan Chimne</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;MS+Business+Analytics+at+UT+Austin;Python+%7C+SQL+%7C+Databricks+%7C+AWS;Graph+Analytics+%7C+Data+Engineering+%7C+Machine+Learning"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;MS+Business+Analytics+at+UT+Austin;Python+%7C+SQL+%7C+Databricks+%7C+AWS;Graph+Analytics+%7C+Data+Engineering+%7C+Machine+Learning"/>
 </p>
 
 <p align="center">
@@ -27,9 +25,7 @@
 # 🛠️ Languages and Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,aws,azure,docker,git,linux,mysql,github" />
-
+  <img src="https://skillicons.dev/icons?i=python,aws,azure,docker,git,linux,mysql,github" />
 </p>
 
 ---
@@ -73,36 +69,9 @@
 ![Keras](https://img.shields.io/badge/Keras-red?logo=keras)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?logo=opencv)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohanchimne&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanchimne&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-[![Rohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanchimne&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rohanchimne&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
 
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/rohanchimne">Rohan Chimne</a>
+  ⭐ From <a href="https://github.com/rohanchimne">Rohan Chimne</a>
 </p>
