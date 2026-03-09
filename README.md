@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rohan Chimne</h1>
+<h1 style="text-align:center; background:black; color:white; padding:12px; border-radius:8px;">
+Hi 👋, I'm Rohan Chimne
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;MS+Business+Analytics+at+UT+Austin;Data+Engineering+%7C+Graph+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Databricks+%7C+AWS" alt="Typing SVG" />
