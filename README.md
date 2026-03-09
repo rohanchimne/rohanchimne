@@ -12,8 +12,8 @@
 
 I’m passionate about turning raw data into meaningful insights and building scalable data platforms.
 
-- 🎓 **MS Business Analytics @ UT Austin**
-- 📊 **Data Analyst | Data Engineering | Graph Analytics**
+- 🎓 **MS Business Analytics | University of Texas at Austin**
+- 📊 **Data Analyst | Data Engineering | Business Analytics | Graph Analytics**
 - 🌱 Learning **dbt, Airflow, Kafka, Databricks**
 - 🤝 Open to collaboration on **AI & Data projects**
 
