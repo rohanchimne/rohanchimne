@@ -71,10 +71,3 @@ I’m a data-focused professional passionate about turning raw data into useful 
 </table>
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohanchimne&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanchimne&layout=compact&theme=tokyonight" />
-</p>
