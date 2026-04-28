@@ -3,61 +3,81 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;MS+Business+Analytics+at+UT+Austin;Data+Engineering+%7C+Graph+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Databricks+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+%26+Analytics+Engineer;Building+Scalable+Data+Systems;AI-Enhanced+Analytics+%7C+Experimentation;SQL+%7C+Python+%7C+dbt+%7C+Snowflake+%7C+Airflow" />
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I’m passionate about turning raw data into meaningful insights and building scalable data platforms.
+I build **scalable data platforms and analytics systems** that turn raw data into business decisions.
 
-- 🎓 **MS Business Analytics | University of Texas at Austin**
-- 📊 **Data Analyst | Data Engineering | Business Analytics | Graph Analytics**
-- 🌱 Learning **dbt, Airflow, Kafka, Databricks**
-- 🤝 Open to collaboration on **AI & Data projects**
-
----
-
-## Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rohanchimne)
-- 💻 [GitHub](https://github.com/rohanchimne)
+* 🎓 MS Business Analytics @ UT Austin
+* 📊 Ex-Uber (Ads) | TransUnion
+* 🧠 Specializing in **Data Engineering + Analytics + Experimentation**
+* ⚡ Strong focus on **business impact, scalability, and data-driven decision-making**
 
 ---
 
-## Languages and Tools
+## 💡 What I’ve Built
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
-</p>
+* 🚀 Designed **dbt + Snowflake pipelines** processing **10M+ records**, creating source-of-truth datasets
+* ⚡ Reduced reporting latency by **50%** using Airflow automation
+* 📈 Built experimentation frameworks driving **20%+ conversion lift**
+* 📊 Developed dashboards used by **20+ stakeholders** for decision-making
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-</p>
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive"/>
-  <img src="https://img.shields.io/badge/Sqoop-CB2027?style=for-the-badge&logo=apache&logoColor=white" alt="Sqoop"/>
-</p>
+## 🧠 AI + Data
 
-<p align="left">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+* Leveraging **LLMs (Claude, GPT)** for SQL generation, debugging, and workflow automation
+* Building **AI-assisted analytics systems** (Natural Language → SQL → Insights)
+* Exploring AI for **data quality, pipeline monitoring, and decision support systems**
+
+---
+
+## 🏗️ Featured Projects
+
+### 🚀 End-to-End Data Pipeline (dbt + Databricks)
+
+* Medallion architecture (Bronze → Silver → Gold)
+* Automated testing + CI/CD pipelines
+* Scalable, analytics-ready data models
+
+---
+
+### ⚡ Real-Time Data Pipeline (Kafka + Spark)
+
+* Streaming ingestion and transformation
+* Star schema modeling for analytics
+* Near real-time data processing
+
+---
+
+### 🤖 AI-Powered Data Assistant (In Progress 🚧)
+
+* Convert business questions → SQL → insights
+* Built using LLMs + Python + data warehouse
+* Focused on automating analytics workflows
+
+---
+
+## 🧩 Tech Stack
+
+**Data Engineering:** dbt, Airflow, Spark, Kafka
+**Cloud & Warehousing:** Snowflake, Databricks, AWS, Azure
+**Analytics:** SQL, Python, Experimentation, A/B Testing
+**BI & Visualization:** Tableau, Power BI
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/rohanchimne)
+* 💻 [GitHub](https://github.com/rohanchimne)
+
+---
+
+<p align="center">
+  <i>Building systems that don't just process data — but drive decisions 🚀</i>
 </p>
