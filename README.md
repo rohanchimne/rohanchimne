@@ -8,6 +8,27 @@
 
 ---
 
+## 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=flat&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+</p>
+
+---
+
 ## 🚀 About Me
 
 I build **scalable data platforms and analytics systems** that turn raw data into business decisions.
@@ -15,24 +36,24 @@ I build **scalable data platforms and analytics systems** that turn raw data int
 * 🎓 MS Business Analytics @ UT Austin
 * 📊 Ex-Uber (Ads) | TransUnion
 * 🧠 Specializing in **Data Engineering + Analytics + Experimentation**
-* ⚡ Strong focus on **business impact, scalability, and data-driven decision-making**
+* ⚡ Focused on **business impact, scalability, and decision systems**
 
 ---
 
 ## 💡 What I’ve Built
 
-* 🚀 Designed **dbt + Snowflake pipelines** processing **10M+ records**, creating source-of-truth datasets
+* 🚀 Designed **dbt + Snowflake pipelines** processing **10M+ records**
 * ⚡ Reduced reporting latency by **50%** using Airflow automation
 * 📈 Built experimentation frameworks driving **20%+ conversion lift**
-* 📊 Developed dashboards used by **20+ stakeholders** for decision-making
+* 📊 Developed dashboards used by **20+ stakeholders**
 
 ---
 
 ## 🧠 AI + Data
 
-* Leveraging **LLMs (Claude, GPT)** for SQL generation, debugging, and workflow automation
+* Leveraging **LLMs (Claude, GPT)** for SQL generation, debugging, and automation
 * Building **AI-assisted analytics systems** (Natural Language → SQL → Insights)
-* Exploring AI for **data quality, pipeline monitoring, and decision support systems**
+* Exploring AI for **data quality, pipeline monitoring, and decision systems**
 
 ---
 
@@ -40,34 +61,28 @@ I build **scalable data platforms and analytics systems** that turn raw data int
 
 ### 🚀 End-to-End Data Pipeline (dbt + Databricks)
 
+
 * Medallion architecture (Bronze → Silver → Gold)
-* Automated testing + CI/CD pipelines
-* Scalable, analytics-ready data models
+* Automated testing + CI/CD
+* Scalable transformation layer
 
 ---
 
 ### ⚡ Real-Time Data Pipeline (Kafka + Spark)
 
+
 * Streaming ingestion and transformation
-* Star schema modeling for analytics
-* Near real-time data processing
+* Star schema modeling
+* Near real-time analytics
 
 ---
 
 ### 🤖 AI-Powered Data Assistant (In Progress 🚧)
 
+
 * Convert business questions → SQL → insights
-* Built using LLMs + Python + data warehouse
-* Focused on automating analytics workflows
-
----
-
-## 🧩 Tech Stack
-
-**Data Engineering:** dbt, Airflow, Spark, Kafka
-**Cloud & Warehousing:** Snowflake, Databricks, AWS, Azure
-**Analytics:** SQL, Python, Experimentation, A/B Testing
-**BI & Visualization:** Tableau, Power BI
+* Built using LLMs + Python
+* Automating analytics workflows
 
 ---
 
@@ -79,5 +94,5 @@ I build **scalable data platforms and analytics systems** that turn raw data int
 ---
 
 <p align="center">
-  <i>Building systems that don't just process data — but drive decisions 🚀</i>
+  <i>Building systems that don’t just process data — but drive decisions 🚀</i>
 </p>
