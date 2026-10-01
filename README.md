@@ -1,98 +1,54 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rohan%20Chimne&fontSize=45&fontColor=ffffff"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img alt="Rohan Chimne, Data Engineer at STL, formerly Uber Ads analytics. I build lakehouse pipelines and the validation that proves the numbers are right before anyone sees them." src="assets/hero-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+%26+Analytics+Engineer;Building+Scalable+Data+Systems;AI-Enhanced+Analytics+%7C+Experimentation;SQL+%7C+Python+%7C+dbt+%7C+Snowflake+%7C+Airflow" />
+  <a href="https://www.linkedin.com/in/rohanchimne"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  <a href="mailto:rohan.chimne@utexas.edu"><b>rohan.chimne@utexas.edu</b></a> &nbsp;|&nbsp;
+  Open to Data Engineering and Analytics Engineering roles
 </p>
 
----
+Two production migrations, three jobs, one through-line: I own whether the data is right. At **STL** I'm moving a multi-TB, 600+ table BigQuery estate onto Databricks and wrote the parity gate every dataset must pass before cutover. At **Uber Ads** I built the SQL metric layer and the reconciliation checks that kept wrong numbers away from 20+ stakeholders.
 
-## 🧩 Tech Stack
+## Impact
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
+  <img alt="600+ tables migrated and gated by parity checks; 2 production-bound defects stopped, including a 2% revenue shift; ~15 hrs/week of manual reporting replaced; 4% ad-spend under-report caught before reaching 20+ stakeholders; 6 ad verticals unified on one SQL source of truth; 30% less effort and compute on a MySQL to Snowflake migration." src="assets/impact-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=flat&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
-</p>
+## Career
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img alt="Career timeline: Cloud Data Engineer at Grace Infosoft (2022 to 2023), Data Analyst on Uber Ads via Nineleaps (2023 to 2025), MS Business Analytics at UT Austin (2026), Data Engineer at STL (2026 to now)." src="assets/timeline-light.svg" width="100%">
+</picture>
 
-## 🚀 About Me
+## How I gate a migration
 
-I build **scalable data platforms and analytics systems** that turn raw data into business decisions.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/parity-dark.svg">
+  <img alt="Parity framework: BigQuery and Databricks each aggregate in place and produce SHA-256 row fingerprints under canonical formatting rules; results are compared using config-as-code from Git; passing datasets cut over, failing ones raise an exception." src="assets/parity-light.svg" width="100%">
+</picture>
 
-* 🎓 MS Business Analytics @ UT Austin
-* 📊 Ex-Uber (Ads) | TransUnion
-* 🧠 Specializing in **Data Engineering + Analytics + Experimentation**
-* ⚡ Focused on **business impact, scalability, and decision systems**
+The framework I designed at STL. Each engine aggregates and fingerprints its own rows, so multi-TB tables are verified across two clouds without copying data. Migration waves for 23 Tier-1 datasets were sequenced from a dependency graph built on Unity Catalog lineage and BigQuery `INFORMATION_SCHEMA`.
 
----
+## Selected projects
 
-## 💡 What I’ve Built
+| Project | What it proves | Stack |
+|---|---|---|
+| **NYC Airbnb Market Intelligence Platform** | End-to-end warehouse on 102,600 listings: medallion layers, star schema (1 fact, 4 dims), MERGE-based incremental loads, plus a natural-language-to-SQL interface and LLM classification with Snowflake Cortex | Snowflake, SQL, Cortex AI, Streamlit |
+| **Airbnb ELT Pipeline** | Bronze, silver and gold layers with SCD Type 2 and incremental models, custom dbt tests and CI on every push | dbt, Databricks, GitHub Actions |
+| **Fraud Detection ML Benchmark** <br><sub>MSBA capstone sponsored by TransUnion</sub> | Random Forest, SVM and quantum SVM on identical stratified splits and PCA features; well-tuned classical models won on ROC-AUC, PR-AUC and calibration | Python, scikit-learn, Qiskit |
 
-* 🚀 Designed **dbt + Snowflake pipelines** processing **10M+ records**
-* ⚡ Reduced reporting latency by **50%** using Airflow automation
-* 📈 Built experimentation frameworks driving **20%+ conversion lift**
-* 📊 Developed dashboards used by **20+ stakeholders**
+## Stack
 
----
-
-## 🧠 AI + Data
-
-* Leveraging **LLMs (Claude, GPT)** for SQL generation, debugging, and automation
-* Building **AI-assisted analytics systems** (Natural Language → SQL → Insights)
-* Exploring AI for **data quality, pipeline monitoring, and decision systems**
-
----
-
-## 🏗️ Featured Projects
-
-### 🚀 End-to-End Data Pipeline (dbt + Databricks)
-
-
-* Medallion architecture (Bronze → Silver → Gold)
-* Automated testing + CI/CD
-* Scalable transformation layer
-
----
-
-### ⚡ Real-Time Data Pipeline (Kafka + Spark)
-
-
-* Streaming ingestion and transformation
-* Star schema modeling
-* Near real-time analytics
-
----
-
-### 🤖 AI-Powered Data Assistant (In Progress 🚧)
-
-
-* Convert business questions → SQL → insights
-* Built using LLMs + Python
-* Automating analytics workflows
-
----
-
-## 📫 Connect With Me
-
-* 🔗 [LinkedIn](https://www.linkedin.com/in/rohanchimne)
-* 💻 [GitHub](https://github.com/rohanchimne)
-
----
-
-<p align="center">
-  <i>Building systems that don’t just process data — but drive decisions 🚀</i>
-</p>
+| Layer | Tools |
+|---|---|
+| Lakehouse and warehouse | Databricks (Delta Lake, Unity Catalog, Metric Views, Lakeflow, Workflows), Snowflake, BigQuery |
+| Processing | SQL, Python, PySpark, Spark, Presto, Hive |
+| Cloud | AWS (Glue, S3, Lambda), GCP |
+| Quality and modeling | Parity and reconciliation testing, freshness checks, medallion architecture, star schema, dbt |
+| Delivery | Git, config-as-code, GitHub Actions, Docker, Streamlit, Tableau, Power BI |
+| AI | Databricks Genie and AI/BI, Snowflake Cortex (natural language to SQL, LLM classification) |
